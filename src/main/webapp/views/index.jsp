@@ -58,7 +58,7 @@
             <ul>
                 <li><a href="/">Blog</a></li>
                 <li><a href="/singlepost">Single Post</a></li>
-                <li class="dropdown"><a href="category.html"><span>Categories</span> <i
+                <li class="dropdown"><a href="/category"><span>Categories</span> <i
                         class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
                         <li><a href="search-result.html">Search Result</a></li>
@@ -79,8 +79,8 @@
                     </ul>
                 </li>
 
-                <li><a href="about.html">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
             </ul>
         </nav><!-- .navbar -->
 
